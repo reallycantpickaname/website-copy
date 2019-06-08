@@ -7,7 +7,7 @@ Last Revised: April 2019
 
 Exercism (also referred to as exercism.io) is an online platform designed to help you improve your coding skills through practice and mentorship.
 
-Our platform comprises of a web site is located at https://exercism.io (and associated subdomains) and a command line application (CLI).
+Our platform is comprised of a web site located at https://exercism.io (and associated subdomains) and a command line application (CLI).
 
 We’re deeply committed to providing you with a safe and secure online platform for you to develop your
 software coding skills.
@@ -47,7 +47,7 @@ This information may include:
 - Some information about your browser's version and operating system
 - Information about your location (based on your IP address)
 
-We use a number of 3rd party tools/services to collect this information, you can get information about them (including how to opt-out) of these services by visiting the following pages.
+We use a number of 3rd party tools/services to collect this information, you can get information about them (including how to opt-out) by visiting the following pages.
 
 - Google analytics: https://tools.google.com/dlpage/gaoptout
 - Hotjar: https://www.hotjar.com/legal/compliance/opt-out
